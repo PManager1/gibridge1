@@ -22,6 +22,6 @@ production:
   adapter: mysql
   database: mysql
   username: root
-  password: pass$
+  password: pass
   host: localhost
   
